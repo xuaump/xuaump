@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Xuaump 😁
+## Bem-vindo(a) ao perfil do Xuaump 
 
  <div>
    <a href="https://github.com/Xuaump">
